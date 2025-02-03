@@ -2,7 +2,7 @@
 
 Access the app here - [JavaScript Quiz App](https://javascripquizapp.netlify.app/)
 
-[https://javascripquizapp.netlify.app/]
+URL: https://javascripquizapp.netlify.app/
 
 ## About
 
