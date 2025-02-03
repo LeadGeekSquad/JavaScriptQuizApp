@@ -1,0 +1,13 @@
+{
+  "name": "javascript-quiz-app",
+  "version": "1.0.0",
+  "description": "javascript quiz app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}

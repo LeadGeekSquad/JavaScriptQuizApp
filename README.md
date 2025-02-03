@@ -1,5 +1,7 @@
 # JavaScript Quiz Application
 
+Access the app here - [JavaScript Quiz App](https://javascripquizapp.netlify.app/)
+
 ## About
 
 Initial idea of building this app came to me while I was learning JavaScript and thought if I could make an JS quiz application to practice and sharpen my skills and understanding of JS.
