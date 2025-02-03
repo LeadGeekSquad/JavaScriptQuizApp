@@ -14,6 +14,7 @@ It features multiple-choice questions covering topics from basics to advanced co
 - Covers basic to advanced topics
 - Instant feedback on answers
 - Score tracking
+- Red/Green text color for correct/incorrect choices
 
 ## Installation
 
@@ -30,7 +31,8 @@ It features multiple-choice questions covering topics from basics to advanced co
 
 - Answer the multiple-choice questions.
 - Get immediate feedback and track your score.
-- Refresh to try again or improve your score!
+- After submitting, it provides correct answer choice in green color and incorrect answer choice in red color
+- Refresh or click on regenerate questions button to try again or improve your score!
 
 ## Contributing
 
